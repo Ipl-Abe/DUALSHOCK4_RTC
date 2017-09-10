@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\9bb148175ae7889d07b3126a470e57c8\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FB2C003E-6704-3E0D-B45D-21C9E33F241B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

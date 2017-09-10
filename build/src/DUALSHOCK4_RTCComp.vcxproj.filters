@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\fumi0\workspace\DUALSHOCK4_RTC\src\DUALSHOCK4_RTCComp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\fumi0\workspace\DUALSHOCK4_RTC\src\DUALSHOCK4_RTC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\fumi0\workspace\DUALSHOCK4_RTC\include\DUALSHOCK4_RTC\DUALSHOCK4_RTC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\fumi0\workspace\DUALSHOCK4_RTC\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A1279EDA-13C5-38A4-BDE3-39365BA302E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4CCCF349-742E-3898-83DE-53A3998D6DF0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

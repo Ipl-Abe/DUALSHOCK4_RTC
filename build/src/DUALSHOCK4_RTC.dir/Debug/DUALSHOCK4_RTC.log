@@ -1,0 +1,89 @@
+﻿2017/09/09 18:57:46 にビルドを開始しました。
+     1>ノード 3 上のプロジェクト "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\src\DUALSHOCK4_RTC.vcxproj" (Rebuild ターゲット)。
+     1>CustomBuild:
+         Building Custom Rule C:/Users/fumi0/workspace/DUALSHOCK4_RTC/src/CMakeLists.txt
+         CMake does not need to re-run because C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/src/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\fumi0\workspace\DUALSHOCK4_RTC\include /IC:\Users\fumi0\workspace\DUALSHOCK4_RTC\include\DUALSHOCK4_RTC /IC:\Users\fumi0\workspace\DUALSHOCK4_RTC\build /IC:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\idl /I"C:\Program Files (x86)\OpenRTM-aist\1.1.2" /I"C:\Program Files (x86)\OpenRTM-aist\1.1.2\rtm\idl" /I"C:\Program Files (x86)\OpenRTM-aist\1.1.2\rtm\ext" /I"C:\Program Files (x86)\OpenRTM-aist\1.1.2\omniORB\4.2.1_vc12\include" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D __WIN32__ /D __x86__ /D __NT__ /D __OSVERSION__=4 /D _CRT_SECURE_NO_DEPRECATE /D INCLUDE_stub_in_nt_dll /D RTC_CORBA_CXXMAPPING11 /D _WIN32_WINNT=0x0500 /D "CMAKE_INTDIR=\"Debug\"" /D DUALSHOCK4_RTC_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"DUALSHOCK4_RTC.dir\Debug\\" /Fd"DUALSHOCK4_RTC.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt C:\Users\fumi0\workspace\DUALSHOCK4_RTC\src\DUALSHOCK4_RTC.cpp
+         DUALSHOCK4_RTC.cpp
+     1>C:\Program Files (x86)\OpenRTM-aist\1.1.2\rtm/InPortBase.h(599): warning C4290: C++ の例外の指定は無視されます。関数が __declspec(nothrow) でないことのみ表示されます。
+     1>C:\Program Files (x86)\OpenRTM-aist\1.1.2\coil/Factory.h(424): warning C4251: 'coil::Factory<AbstractClass,Identifier,Compare,Creator,Destructor>::m_creators' : class 'std::map<Identifier,coil::Factory<AbstractClass,Identifier,Compare,Creator,Destructor>::FactoryEntry,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' は __export キーワードを使って class 'coil::Factory<AbstractClass,Identifier,Compare,Creator,Destructor>' にエクスポートしてください。
+                 with
+                 [
+                     AbstractClass=RTC::InPortConsumer
+         ,            Identifier=std::string
+         ,            Compare=std::less<std::string>
+         ,            Creator=RTC::InPortConsumer *(__cdecl *)(void)
+         ,            Destructor=void (__cdecl *)(RTC::InPortConsumer *&)
+                 ]
+                 and
+                 [
+                     Identifier=std::string
+         ,            AbstractClass=RTC::InPortConsumer
+         ,            Compare=std::less<std::string>
+         ,            Creator=RTC::InPortConsumer *(__cdecl *)(void)
+         ,            Destructor=void (__cdecl *)(RTC::InPortConsumer *&)
+         ,            _Kty=std::string
+         ,            _Ty=coil::Factory<RTC::InPortConsumer,std::string,std::less<std::string>,RTC::InPortConsumer *(__cdecl *)(void),void (__cdecl *)(RTC::InPortConsumer *&)>::FactoryEntry
+                 ]
+                 and
+                 [
+                     AbstractClass=RTC::InPortConsumer
+         ,            Identifier=std::string
+         ,            Compare=std::less<std::string>
+         ,            Creator=RTC::InPortConsumer *(__cdecl *)(void)
+         ,            Destructor=void (__cdecl *)(RTC::InPortConsumer *&)
+                 ]
+                 C:\Program Files (x86)\OpenRTM-aist\1.1.2\rtm/InPortConsumer.h(258) : コンパイルされたクラスの テンプレート のインスタンス化 'coil::GlobalFactory<RTC::InPortConsumer,std::string,std::less<_Kty>,AbstractClass *(__cdecl *)(void),void (__cdecl *)(AbstractClass *&)>' の参照を確認してください
+                 with
+                 [
+                     _Kty=std::string
+         ,            AbstractClass=RTC::InPortConsumer
+                 ]
+     1>C:\Program Files (x86)\OpenRTM-aist\1.1.2\coil/Factory.h(424): warning C4251: 'coil::Factory<AbstractClass,Identifier,Compare,Creator,Destructor>::m_creators' : class 'std::map<Identifier,coil::Factory<AbstractClass,Identifier,Compare,Creator,Destructor>::FactoryEntry,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' は __export キーワードを使って class 'coil::Factory<AbstractClass,Identifier,Compare,Creator,Destructor>' にエクスポートしてください。
+                 with
+                 [
+                     AbstractClass=RTC::OutPortProvider
+         ,            Identifier=std::string
+         ,            Compare=std::less<std::string>
+         ,            Creator=RTC::OutPortProvider *(__cdecl *)(void)
+         ,            Destructor=void (__cdecl *)(RTC::OutPortProvider *&)
+                 ]
+                 and
+                 [
+                     Identifier=std::string
+         ,            AbstractClass=RTC::OutPortProvider
+         ,            Compare=std::less<std::string>
+         ,            Creator=RTC::OutPortProvider *(__cdecl *)(void)
+         ,            Destructor=void (__cdecl *)(RTC::OutPortProvider *&)
+         ,            _Kty=std::string
+         ,            _Ty=coil::Factory<RTC::OutPortProvider,std::string,std::less<std::string>,RTC::OutPortProvider *(__cdecl *)(void),void (__cdecl *)(RTC::OutPortProvider *&)>::FactoryEntry
+                 ]
+                 and
+                 [
+                     AbstractClass=RTC::OutPortProvider
+         ,            Identifier=std::string
+         ,            Compare=std::less<std::string>
+         ,            Creator=RTC::OutPortProvider *(__cdecl *)(void)
+         ,            Destructor=void (__cdecl *)(RTC::OutPortProvider *&)
+                 ]
+                 C:\Program Files (x86)\OpenRTM-aist\1.1.2\rtm/OutPortProvider.h(551) : コンパイルされたクラスの テンプレート のインスタンス化 'coil::GlobalFactory<RTC::OutPortProvider,std::string,std::less<_Kty>,AbstractClass *(__cdecl *)(void),void (__cdecl *)(AbstractClass *&)>' の参照を確認してください
+                 with
+                 [
+                     _Kty=std::string
+         ,            AbstractClass=RTC::OutPortProvider
+                 ]
+     1>C:\Program Files (x86)\OpenRTM-aist\1.1.2\rtm/OutPortBase.h(777): warning C4290: C++ の例外の指定は無視されます。関数が __declspec(nothrow) でないことのみ表示されます。
+     1>C:\Program Files (x86)\OpenRTM-aist\1.1.2\coil/OS.h(92): warning C4996: 'GetVersionExA': が古い形式として宣言されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h(433) : 'GetVersionExA' の宣言を確認してください。
+     1>C:\Users\fumi0\workspace\DUALSHOCK4_RTC\src\DUALSHOCK4_RTC.cpp(34): warning C4305: '初期化中' : 'double' から 'const float' へ切り詰めます。
+     1>C:\Users\fumi0\workspace\DUALSHOCK4_RTC\src\DUALSHOCK4_RTC.cpp(35): warning C4305: '初期化中' : 'double' から 'const float' へ切り詰めます。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\src\Debug\DUALSHOCK4_RTC.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:/Program Files (x86)/OpenRTM-aist/1.1.2/bin/vc12" /LIBPATH:"C:/Program Files (x86)/OpenRTM-aist/1.1.2/bin/vc12/Debug" /LIBPATH:"C:/Program Files (x86)/OpenRTM-aist/1.1.2/omniORB/4.2.1_vc12/lib/x86_win32" /LIBPATH:"C:/Program Files (x86)/OpenRTM-aist/1.1.2/omniORB/4.2.1_vc12/lib/x86_win32/Debug" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib RTC112_vc12d.lib coil112_vc12d.lib omniORB421_rtd.lib omniDynamic421_rtd.lib omnithread40_rtd.lib advapi32.lib ws2_32.lib mswsock.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/src/Debug/DUALSHOCK4_RTC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/src/Debug/DUALSHOCK4_RTC.lib" /MACHINE:X86 /SAFESEH   /machine:X86 /DLL DUALSHOCK4_RTC.dir\Debug\DUALSHOCK4_RTC.obj
+            ライブラリ C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/src/Debug/DUALSHOCK4_RTC.lib とオブジェクト C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/src/Debug/DUALSHOCK4_RTC.exp を作成中
+         DUALSHOCK4_RTC.vcxproj -> C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\src\Debug\DUALSHOCK4_RTC.dll
+     1>プロジェクト "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\src\DUALSHOCK4_RTC.vcxproj" (Rebuild ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:02.38

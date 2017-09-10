@@ -1,0 +1,345 @@
+The system is: Windows - 10.0.14393 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine �o�[�W���� 12.0.31101.0
+[Microsoft .NET Framework�A�o�[�W���� 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2017/09/09 15:57:42 �Ƀr���h���J�n���܂����B
+�m�[�h 1 ��̃v���W�F�N�g "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\3.8.0-rc4\CompilerIdC\CompilerIdC.vcxproj" (����̃^�[�Q�b�g)�B
+PrepareForBuild:
+  �f�B���N�g�� "Debug\" ���쐬���Ă��܂��B
+  �f�B���N�g�� "Debug\CompilerIdC.tlog\" ���쐬���Ă��܂��B
+InitializeBuildStatus:
+  "AlwaysCreate" ���w�肳�ꂽ���� "Debug\CompilerIdC.tlog\unsuccessfulbuild" ���쐬���Ă��܂��B
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\3.8.0-rc4\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  �t�@�C�� "Debug\CompilerIdC.tlog\unsuccessfulbuild" ���폜���Ă��܂��B
+  "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate" �̃^�b�` �^�X�N�����s���Ă��܂��B
+�v���W�F�N�g "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\3.8.0-rc4\CompilerIdC\CompilerIdC.vcxproj" (����̃^�[�Q�b�g) �̃r���h���������܂����B
+
+�r���h�ɐ������܂����B
+    0 �̌x��
+    0 �G���[
+
+�o�ߎ��� 00:00:00.81
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/CMakeFiles/3.8.0-rc4/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine �o�[�W���� 12.0.31101.0
+[Microsoft .NET Framework�A�o�[�W���� 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2017/09/09 15:57:44 �Ƀr���h���J�n���܂����B
+�m�[�h 1 ��̃v���W�F�N�g "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\3.8.0-rc4\CompilerIdCXX\CompilerIdCXX.vcxproj" (����̃^�[�Q�b�g)�B
+PrepareForBuild:
+  �f�B���N�g�� "Debug\" ���쐬���Ă��܂��B
+  �f�B���N�g�� "Debug\CompilerIdCXX.tlog\" ���쐬���Ă��܂��B
+InitializeBuildStatus:
+  "AlwaysCreate" ���w�肳�ꂽ���� "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" ���쐬���Ă��܂��B
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\3.8.0-rc4\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  �t�@�C�� "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" ���폜���Ă��܂��B
+  "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate" �̃^�b�` �^�X�N�����s���Ă��܂��B
+�v���W�F�N�g "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\3.8.0-rc4\CompilerIdCXX\CompilerIdCXX.vcxproj" (����̃^�[�Q�b�g) �̃r���h���������܂����B
+
+�r���h�ɐ������܂����B
+    0 �̌x��
+    0 �G���[
+
+�o�ߎ��� 00:00:00.77
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/CMakeFiles/3.8.0-rc4/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_97ecd.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine バージョン 12.0.31101.0
+[Microsoft .NET Framework、バージョン 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2017/09/09 15:57:45 にビルドを開始しました。
+ノード 1 上のプロジェクト "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\cmTC_97ecd.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_97ecd.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_97ecd.dir\Debug\cmTC_97ecd.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_97ecd.dir\Debug\cmTC_97ecd.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_97ecd.dir\Debug\\" /Fd"cmTC_97ecd.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\testCCompiler.c
+  Microsoft(R) C/C++ Optimizing Compiler Version 18.00.40629 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_97ecd.dir\Debug\\" /Fd"cmTC_97ecd.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\testCCompiler.c
+  
+  testCCompiler.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\Debug\cmTC_97ecd.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/CMakeFiles/CMakeTmp/Debug/cmTC_97ecd.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/CMakeFiles/CMakeTmp/Debug/cmTC_97ecd.lib" /MACHINE:X86 /SAFESEH   /machine:X86 cmTC_97ecd.dir\Debug\testCCompiler.obj
+  cmTC_97ecd.vcxproj -> C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\Debug\cmTC_97ecd.exe
+FinalizeBuildStatus:
+  ファイル "cmTC_97ecd.dir\Debug\cmTC_97ecd.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_97ecd.dir\Debug\cmTC_97ecd.tlog\cmTC_97ecd.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\cmTC_97ecd.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.81
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_394c0.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine バージョン 12.0.31101.0
+[Microsoft .NET Framework、バージョン 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2017/09/09 15:57:46 にビルドを開始しました。
+ノード 1 上のプロジェクト "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\cmTC_394c0.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_394c0.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_394c0.dir\Debug\cmTC_394c0.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_394c0.dir\Debug\cmTC_394c0.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_394c0.dir\Debug\\" /Fd"cmTC_394c0.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\fumi0\Desktop\cmake-3.8.0-rc4-win32-x86\share\cmake-3.8\Modules\CMakeCCompilerABI.c"
+  Microsoft(R) C/C++ Optimizing Compiler Version 18.00.40629 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_394c0.dir\Debug\\" /Fd"cmTC_394c0.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\fumi0\Desktop\cmake-3.8.0-rc4-win32-x86\share\cmake-3.8\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\Debug\cmTC_394c0.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/CMakeFiles/CMakeTmp/Debug/cmTC_394c0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/CMakeFiles/CMakeTmp/Debug/cmTC_394c0.lib" /MACHINE:X86 /SAFESEH   /machine:X86 cmTC_394c0.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_394c0.vcxproj -> C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\Debug\cmTC_394c0.exe
+FinalizeBuildStatus:
+  ファイル "cmTC_394c0.dir\Debug\cmTC_394c0.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_394c0.dir\Debug\cmTC_394c0.tlog\cmTC_394c0.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\cmTC_394c0.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.53
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_d9f0f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine バージョン 12.0.31101.0
+[Microsoft .NET Framework、バージョン 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2017/09/09 15:57:47 にビルドを開始しました。
+ノード 1 上のプロジェクト "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\cmTC_d9f0f.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_d9f0f.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_d9f0f.dir\Debug\cmTC_d9f0f.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_d9f0f.dir\Debug\cmTC_d9f0f.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_d9f0f.dir\Debug\\" /Fd"cmTC_d9f0f.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  Microsoft(R) C/C++ Optimizing Compiler Version 18.00.40629 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_d9f0f.dir\Debug\\" /Fd"cmTC_d9f0f.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\Debug\cmTC_d9f0f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/CMakeFiles/CMakeTmp/Debug/cmTC_d9f0f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/CMakeFiles/CMakeTmp/Debug/cmTC_d9f0f.lib" /MACHINE:X86 /SAFESEH   /machine:X86 cmTC_d9f0f.dir\Debug\testCXXCompiler.obj
+  cmTC_d9f0f.vcxproj -> C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\Debug\cmTC_d9f0f.exe
+FinalizeBuildStatus:
+  ファイル "cmTC_d9f0f.dir\Debug\cmTC_d9f0f.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_d9f0f.dir\Debug\cmTC_d9f0f.tlog\cmTC_d9f0f.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\cmTC_d9f0f.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.52
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_fd8ed.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine バージョン 12.0.31101.0
+[Microsoft .NET Framework、バージョン 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2017/09/09 15:57:47 にビルドを開始しました。
+ノード 1 上のプロジェクト "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\cmTC_fd8ed.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_fd8ed.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_fd8ed.dir\Debug\cmTC_fd8ed.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_fd8ed.dir\Debug\cmTC_fd8ed.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_fd8ed.dir\Debug\\" /Fd"cmTC_fd8ed.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\fumi0\Desktop\cmake-3.8.0-rc4-win32-x86\share\cmake-3.8\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft(R) C/C++ Optimizing Compiler Version 18.00.40629 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_fd8ed.dir\Debug\\" /Fd"cmTC_fd8ed.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\fumi0\Desktop\cmake-3.8.0-rc4-win32-x86\share\cmake-3.8\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\Debug\cmTC_fd8ed.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/CMakeFiles/CMakeTmp/Debug/cmTC_fd8ed.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/CMakeFiles/CMakeTmp/Debug/cmTC_fd8ed.lib" /MACHINE:X86 /SAFESEH   /machine:X86 cmTC_fd8ed.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_fd8ed.vcxproj -> C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\Debug\cmTC_fd8ed.exe
+FinalizeBuildStatus:
+  ファイル "cmTC_fd8ed.dir\Debug\cmTC_fd8ed.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_fd8ed.dir\Debug\cmTC_fd8ed.tlog\cmTC_fd8ed.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\cmTC_fd8ed.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.53
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_b99e0.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine バージョン 12.0.31101.0
+[Microsoft .NET Framework、バージョン 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2017/09/09 15:57:48 にビルドを開始しました。
+ノード 1 上のプロジェクト "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\cmTC_b99e0.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_b99e0.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_b99e0.dir\Debug\cmTC_b99e0.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_b99e0.dir\Debug\cmTC_b99e0.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_b99e0.dir\Debug\\" /Fd"cmTC_b99e0.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\feature_tests.cxx
+  Microsoft(R) C/C++ Optimizing Compiler Version 18.00.40629 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_b99e0.dir\Debug\\" /Fd"cmTC_b99e0.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\feature_tests.cxx
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\Debug\cmTC_b99e0.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/CMakeFiles/CMakeTmp/Debug/cmTC_b99e0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/fumi0/workspace/DUALSHOCK4_RTC/build/CMakeFiles/CMakeTmp/Debug/cmTC_b99e0.lib" /MACHINE:X86 /SAFESEH   /machine:X86 cmTC_b99e0.dir\Debug\feature_tests.obj
+  cmTC_b99e0.vcxproj -> C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\Debug\cmTC_b99e0.exe
+FinalizeBuildStatus:
+  ファイル "cmTC_b99e0.dir\Debug\cmTC_b99e0.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_b99e0.dir\Debug\cmTC_b99e0.tlog\cmTC_b99e0.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\fumi0\workspace\DUALSHOCK4_RTC\build\CMakeFiles\CMakeTmp\cmTC_b99e0.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.54
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
